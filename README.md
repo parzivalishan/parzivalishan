@@ -1,4 +1,4 @@
-I’m building a idea in defi by making a launchpad with 0 fees not like the ones which charge you 30% of your allocation and also you need to stake their tokens to get allocation , the ones which dont have 30% fees dont have good projects in their ecosystem . I am also trying to make a swap feature where you get one of the best ui/ux while using it especially on mobile phone.
+I’m making an idea for making a launchpad with 0 fees not like the ones which charge you 30% of your allocation and also you need to stake their tokens to get allocation , the ones which dont have 30% fees dont have good projects in their ecosystem . I am also trying to make a swap feature where you get one of the best ui/ux while using it especially on mobile phone.
   -launchpad
   -swap
   -otc market for vested tokens ( game plan )
